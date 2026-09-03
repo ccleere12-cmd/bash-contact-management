@@ -1,4 +1,4 @@
-# Bash Contact Management
+# Bash Contact Management Program
 
 A command-line contact management system written in Bash that allows users to add, search, view, sort, and edit contacts stored in a text file.
 
